@@ -1,0 +1,6 @@
+Mol_name,SMILES
+T1_MYF_03_176,FC(=C)C(=O)N1C[C@@H](NC2=NC=CC=N2)[C@@H](C1)OCC1=CC=C(C=C1)C(F)(F)F
+P1_Compd_31,C[n]1ncc2c1c(cc(C(N(Cc(nc1)ccc1C#CC1=CCN(C)CC1)C1CC1)=O)c(F)c1)c1nc2N
+K1_TH-Z827,Cc1cccc2cccc(N3CCc4c(nc(OC[C@@H]5CCCN5C)nc4N4[C@@H]5CC[C@H]4CNC5)C3)c12
+P2_cmpd_51_THIQ,CC(=O)N1CC(Nc2cc(C(=O)NC[C@@H](O)[C@@H]3Cc4ccc(OCc5ocnc5C)cc4CN3)nc(N3CCC(C)CC3)n2)C1
+S1_compd_10,Cc1ncsc1-c1ccc([C@H](CO[C@H](C)CN2CCC(c3ccc4c(c3)n(C3CCCC3)c3nc(=O)c5c(Br)cccc5n43)CC2)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)C2(N(C)C)CC2)C(C)(C)C)cc1

@@ -1,0 +1,7 @@
+rdkit
+pandas
+requests
+chembl-webresource-client
+numpy
+jupyter
+ipykernel
