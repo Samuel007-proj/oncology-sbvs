@@ -1,9 +1,6 @@
 # Multi-Target Oncology SBVS Campaign
 
-**Structure-Based Virtual Screening for novel small-molecule chemotypes against KRAS G12D • PRMT5 (MTA-cooperative) • TEAD • SMARCA2**
-
-Author: **Samuel Damilare Oyelami**  
-Status: Active research project (October 2026)
+**Structure-Based Virtual Screening for novel small-molecule chemotypes against KRAS G12D • PRMT5 (MTA-cooperative) • TEAD • SMARCA2*
 
 ---
 
@@ -75,18 +72,3 @@ pip install -r requirements.txt
 **Key Python dependencies:** RDKit, pandas, requests, chembl-webresource-client, Jupyter.
 
 ---
-
-## Author
-
-**Samuel Damilare Oyelami**  
-Pharm.D candidate, University of Ibadan  
-Computational drug design · CADD · Cheminformatics  
-
-- GitHub: [Samuel007-proj](https://github.com/Samuel007-proj)  
-- LinkedIn: [oyelami-samuel](https://www.linkedin.com/in/oyelami-samuel-994b44342)
-
----
-
-## Licence
-
-Research code for academic / portfolio use. Please cite this repository if you reuse methods or scripts.
